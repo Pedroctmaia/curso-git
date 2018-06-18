@@ -10,6 +10,7 @@ namespace Projeto_teste {
 
 			Console.WriteLine("Olá, mund... CÃÃÃÃÃÃÃÃ... doeu o cuuuuuuu!");
 			Console.WriteLine("Bom di... õõõõõÕÕÕÕ POF! UUUUUUU, ZENAIFORN!!");
+			Console.WriteLine("Cocômo voce estáaaull oge?");
 
 			Console.ReadLine();
 
