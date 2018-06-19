@@ -8,9 +8,9 @@ namespace Projeto_teste {
 	class Program {
 		static void Main(string[] args) {
 
-			Console.WriteLine("Olá, mund... CÃÃÃÃÃÃÃÃ... doeu o cuuuuuuu!");
-			Console.WriteLine("Bom di... õõõõõÕÕÕÕ POF! UUUUUUU, ZENAIFORN!!");
-			Console.WriteLine("Cocômo voce estáaaull oge?");
+			Console.WriteLine("Olá, mundo!");
+			Console.WriteLine("Bom dia!");
+			Console.WriteLine("Como voce está hoje?");
 
 			Console.ReadLine();
 
